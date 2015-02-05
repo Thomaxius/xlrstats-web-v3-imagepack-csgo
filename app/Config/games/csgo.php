@@ -11,7 +11,7 @@
  * @package       app.Config.games
  * @since         XLRstats v3.0
  * @version       0.1
- * Credits:       Half assed port from cod2.php by Thomaxius, all of the art are taken from 
+ * Credits:       Half assed port from cod2.php by Thomaxius, all of the art is taken from 
  * 		  http://counterstrike.wikia.com/
  */
 
