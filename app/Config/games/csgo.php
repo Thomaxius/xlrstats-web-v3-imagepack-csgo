@@ -1,7 +1,7 @@
 <?php
 /**
  * XLRstats : Real Time Player Stats (http://www.xlrstats.com)
- * (CC) BY-NC-SA 2005-2013, Mark Weirath, Özgür Uysal
+ * (CC) BY-NC-SA 2005-2013, Mark Weirath, Ã–zgÃ¼r Uysal
  *
  * Licensed under the Creative Commons BY-NC-SA 3.0 License
  * Redistributions of files must retain the above copyright notice.
@@ -12,6 +12,7 @@
  * @since         XLRstats v3.0
  * @version       0.1
  * @credits       Half assed port from cod2.php by Thomaxius, all of the art are taken from 
+ * 		  http://counterstrike.wikia.com/
  */
 
 $config = array(
